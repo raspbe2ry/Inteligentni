@@ -1,0 +1,10 @@
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\bin\Debug\InteligentniDom1.exe.config
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\bin\Debug\InteligentniDom1.exe
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\bin\Debug\InteligentniDom1.pdb
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.Form1.resources
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.Properties.Resources.resources
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.csproj.GenerateResource.cache
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.exe
+E:\Visual Studio 2017\InteligentniDom1\InteligentniDom1\obj\Debug\InteligentniDom1.pdb
